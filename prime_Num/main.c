@@ -1,6 +1,6 @@
 #include<stdio.h>
 void Prime(int Num)
-{
+{//
 	int i;
 	if(Num == 1)
 	{
