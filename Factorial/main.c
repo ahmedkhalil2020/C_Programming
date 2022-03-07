@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-
+//Factorial
 int main(void)
 {
 	int i;
