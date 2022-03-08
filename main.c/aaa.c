@@ -5,7 +5,7 @@
 #define SIZE 10
 #define Null (void*)0
 #define RW 0x1FFF7800
-
+//445454
 int Power(int Num);
 int main (void)
 {
